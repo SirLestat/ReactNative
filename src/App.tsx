@@ -10,6 +10,7 @@ function App() {
       {/* <BasicTypes /> */}
       {/*<ObjectLiterals /> */}
       {/*<BasicFunctions />*/}
+      git test
     </div>
   );
 }
